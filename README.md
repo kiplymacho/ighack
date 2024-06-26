@@ -10,16 +10,16 @@
 <a href="https://bit.ly/30yDbd5"><img title="Ighack" src="https://user-images.githubusercontent.com/49580304/96563916-5f0c9380-1277-11eb-814f-88de938d67a7.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/kiplymacho"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/@km7ujuh"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/ighack?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/ighack?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/ighack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://github.com/kiplymacho"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/kiplymacho?color=blue&style=flat-square"></a>
+<a href="https://github.com/kiplymacho"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/ighack?color=red&style=flat-square"></a>
+<a href="https://github.com/kiplymacho"><img title="Forks" src="https://img.shields.io/github/forks/kiplymacho/ighack?color=red&style=flat-square"></a>
+<a href="https://github.com/kiplymacho"><img title="Watching" src="https://img.shields.io/github/watchers/kiplymacho/ighack?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/kiplymacho"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
